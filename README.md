@@ -12,4 +12,4 @@ management system.
 
 ## Screenshots:
 
-![alt home](Student-Management-System/student_management.png)
+![alt home](https://github.com/j019/Student-Management-System/blob/master/student_management.png)
