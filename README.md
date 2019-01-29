@@ -9,3 +9,7 @@ management system.
 1. Enter the various detail of student.
 2. Save the data with help of a button.
 3. View the data in your database.
+
+## Screenshots:
+
+![alt home](Student-Management-System/student_management.png)
