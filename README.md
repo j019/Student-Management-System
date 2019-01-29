@@ -11,4 +11,4 @@
 
 ## Screenshots:
 
-![alt home](https://github.com/j019/Student-Management-System/blob/master/student_management.png)
+![alt home](https://j019.github.io/Student-Management-System/student_management.png)
